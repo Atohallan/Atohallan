@@ -26,3 +26,22 @@
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
 </div>
+
+<!-- Github Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Atohallan&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
+         width="49%" alt="My GitHub Stats were once here..." />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Atohallan&show_icons=true&theme=buefy&border_color=DD2BC7" 
+         width="49%" alt="My GitHub Stats were once here..." />
+  </a>
+  <!-- Github Streak -->
+  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=Atohallan&theme=tokyonight&mode=daily&border=DD2BC7" 
+         width="49%" alt="My GitHub Streak was once here..." />
+  </a>
+    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com?user=Atohallan&theme=buefy&mode=daily&border=DD2BC7" 
+         width="49%" alt="My GitHub Streak was once here..." />
+  </a>
