@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Full+Stack+developer;Also+a+Blockchain+developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Full+Stack+developer;Let's+build+Awesome+together)](https://git.io/typing-svg)
 ![alena-aenami-clouds](https://user-images.githubusercontent.com/129685965/229512007-a15ab033-7d32-4032-91ec-d9ffc6e9e1c6.jpg)
 <a href="https://app.daily.dev/Apollyon0929"><img src="https://api.daily.dev/devcards/71ac6944c18946c6bab80f9bf3098286.png?r=ye1" width="400" alt="Jack Robinson's Dev Card"/></a>
 <h1>❄For our future, for the happiness of our children. Let's run! With a heart pure and pure as 🧊ice🧊..</h1>
