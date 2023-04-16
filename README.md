@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Full+Stack+developer;Let's+build+Awesome+together)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Frontend+Engineeer;Let's+build+Awesome+together)](https://git.io/typing-svg)
 ![alena-aenami-clouds](https://user-images.githubusercontent.com/129685965/229512007-a15ab033-7d32-4032-91ec-d9ffc6e9e1c6.jpg)
 <h1>❄For our future, for the happiness of our children. Let's run! With a heart pure and pure as 🧊ice🧊..</h1>
 <details open>
