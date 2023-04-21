@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Full+stack+Engineeer;Let's+build+Awesome+together)](https://git.io/typing-svg)
-![1180w-600h_111819_meet-the-frozen-2-characters-780x440-1574117145](https://user-images.githubusercontent.com/129685965/233699945-b250c12f-58e3-40ac-9f11-c06f35032787.jpg)
+# ![1180w-600h_111819_meet-the-frozen-2-characters-780x440-1574117145](https://user-images.githubusercontent.com/129685965/233699945-b250c12f-58e3-40ac-9f11-c06f35032787.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Senior+Full+stack+Engineeer;Let's+build+Awesome+together)](https://git.io/typing-svg)
 <h1>❄For our future, for the happiness of our children. Let's run! With a heart pure and pure as 🧊ice🧊..</h1>
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
