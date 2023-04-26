@@ -13,6 +13,11 @@
     <code><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" /></code>
     <code><img src="./pics/react-original.svg" width="48" height="48" alt="React" /></code>
     <code><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" /></code>
+    <code><img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" /></code>
+    <code><img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" /></code>
+    <code><img src="./pics/mongodb.svg" width="48" height="48" alt="MongoDB" /></code>
+    <code><img src="./pics/mysql-original.svg" width="48" height="48" alt="MySQL" /></code>
+    <code><img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="48" height="48" alt="Firebase" /></code>
   </p>
 </details>
 
