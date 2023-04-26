@@ -3,16 +3,16 @@
 <h1>❄For our future, for the happiness of our children. Let's run! With a heart pure and pure as 🧊ice🧊..</h1>
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+    <code><img src="./pics/ethereum.png" width="48" height="48" alt="Ethereum" /></code>
+    <code><img src="./pics/polygon.png" width="48" height="48" alt="Polygon" /></code>
+  <code><img src="./pics/javascript-original.svg" width="48" height="48" alt="JavaScript" /></code>
+    <code><img src="./pics/typescript-original.svg" width="48" height="48" alt="TypeScript" /></code>
+    <code><img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" alt="Solidity" /></code>
+    <code><img src="./pics/go-flat.svg" width="48" height="48" alt="Golang" /></code>
+    <code><img src="./pics/python-original.svg" width="48" height="48" alt="Python" /></code>
+    <code><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" /></code>
+    <code><img src="./pics/react-original.svg" width="48" height="48" alt="React" /></code>
+    <code><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" /></code>
   </p>
 </details>
 
