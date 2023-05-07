@@ -25,4 +25,12 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atohallan&show_icons=true&theme=radical)
   ![Anurag's GitHub Streak](https://streak-stats.demolab.com?user=Atohallan&theme=tokyonight&mode=daily&border=DD2BC7)
   
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/brillianodhiya/brillianodhiya/output/snake.svg" alt="Snake animation" />
+
+###
+  
 
