@@ -12,7 +12,14 @@
     <code><img src="./pics/python-original.svg" width="48" height="48" alt="Python" /></code>
     <code><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="48" height="48" alt="NodeJs" /></code>
     <code><img src="./pics/react-original.svg" width="48" height="48" alt="React" /></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" /></code>
     <code><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="48" height="48" alt="Vue" /></code>
+    <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="TailwindCSS" /></code>
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Typescript" /></code>
+    <code><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="TailwindCSS" /></code>
+    <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="TailwindCSS" /></code>
+    <code><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="TailwindCSS" /></code>
+    <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="TailwindCSS" /></code>
     <code><img src="./pics/tailwindcss.svg" width="48" height="48" alt="TailwindCSS" /></code>
     <code><img src="./pics/sass-original.svg" width="48" height="48" alt="Sass" /></code>
     <code><img src="./pics/mongodb.svg" width="48" height="48" alt="MongoDB" /></code>
